@@ -1,0 +1,101 @@
+Date,Category,Payment Mode,Description,Amount Paid,Cashback
+2023-08-01,Entertainment,Online,Hobby Supplies,1024.57,82.56
+2023-08-01,Housing,Cash,Mortgage Payment,37113.31,3651.85
+2023-08-01,Subscriptions,Cash,Audiobook Services,845.16,26.56
+2023-08-02,Groceries,Cash,Fruits And Vegetables,1804.59,54.41
+2023-08-03,Dining Out,Online,Buffet Meals,1004.76,32.6
+2023-08-03,Housing,Cash,Property Taxes,4724.45,185.2
+2023-08-03,Dining Out,Online,Coffee Shop Visit,132.88,3.83
+2023-08-04,Housing,Cash,HOA Fees,649.31,35.81
+2023-08-04,Health & Fitness,Online,Wellness Programs,403.43,15.15
+2023-08-04,Groceries,Cash,Condiments And Spices,913.54,87.16
+2023-08-05,Subscriptions,Cash,Audiobook Services,785.84,10.33
+2023-08-05,Travel,Cash,Airfare,32989.1,2846.16
+2023-08-05,Clothing,Online,Children's Apparel,1075.36,56.06
+2023-08-05,Entertainment,Online,Concert Tickets,1127.94,108.25
+2023-08-06,Health & Fitness,Online,Physical Therapy Sessions,911.62,34.8
+2023-08-06,Clothing,Online,Underwear And Socks,971.89,56.92
+2023-08-06,Health & Fitness,Online,Medical Consultations,1707.77,60.87
+2023-08-06,Dining Out,Cash,Coffee Shop Visit,168.09,1.45
+2023-08-07,Clothing,Online,Fashion Accessories,409.25,14.24
+2023-08-07,Housing,Cash,HOA Fees,834.96,70.71
+2023-08-07,Transportation,Cash,Toll Charges,354.13,11.36
+2023-08-07,Dining Out,Cash,Dinner At A Restaurant,2684.75,225.39
+2023-08-08,Utilities,Online,Mobile Phone Bill,316.1,5.7
+2023-08-08,Health & Fitness,Cash,Fitness Apps,368.09,35.83
+2023-08-08,Health & Fitness,Online,Medical Consultations,3494.92,303.32
+2023-08-09,Housing,Online,Furnishings,16915.26,427.48
+2023-08-09,Clothing,Cash,Underwear And Socks,580.53,48.74
+2023-08-09,Transportation,Online,Ride-Sharing Services,468.22,23.46
+2023-08-09,Travel,Online,Dining While Traveling,2765.87,70.06
+2023-08-09,Clothing,Cash,Tailoring Services,775.6,37.18
+2023-08-09,Dining Out,Cash,Coffee Shop Visit,416.04,18.19
+2023-08-10,Health & Fitness,Online,Health Insurance Premiums,4522.9,63.49
+2023-08-10,Clothing,Cash,Footwear,1625.35,50.43
+2023-08-10,Housing,Online,Home Security System,1323.35,3.8
+2023-08-10,Travel,Online,Tour Activities,736.28,33.06
+2023-08-11,Housing,Online,HOA Fees,897.69,21.27
+2023-08-11,Groceries,Cash,Dairy Products,1091.3,84.13
+2023-08-11,Groceries,Online,Cleaning Supplies,1494.41,75.18
+2023-08-12,Transportation,Online,Car Insurance,2282.29,69.75
+2023-08-12,Subscriptions,Online,Gaming Subscriptions,318.72,1.71
+2023-08-12,Dining Out,Online,Coffee Shop Visit,238.4,8.93
+2023-08-13,Dining Out,Cash,Fast Food Meal,500.61,14.4
+2023-08-13,Travel,Cash,Baggage Fees,1699.81,84.98
+2023-08-13,Clothing,Online,Work Attire,4418.11,177.27
+2023-08-14,Subscriptions,Cash,News Websites Subscription,699.97,35.7
+2023-08-14,Health & Fitness,Cash,Health Screenings,1047.0,18.18
+2023-08-14,Travel,Online,Travel Accessories,4278.73,150.65
+2023-08-14,Subscriptions,Cash,Gaming Subscriptions,722.45,17.17
+2023-08-14,Entertainment,Cash,Streaming Equipment,2505.64,86.0
+2023-08-14,Dining Out,Online,Dinner At A Restaurant,2292.69,108.76
+2023-08-15,Dining Out,Cash,Street Food,317.63,5.92
+2023-08-15,Travel,Online,Dining While Traveling,826.65,34.14
+2023-08-15,Dining Out,Online,Coffee Shop Visit,123.11,2.5
+2023-08-16,Travel,Cash,Car Rentals,4297.19,403.03
+2023-08-16,Health & Fitness,Online,Personal Training Sessions,3665.14,266.43
+2023-08-16,Subscriptions,Online,Online Learning Platforms,4055.99,389.86
+2023-08-16,Entertainment,Cash,Hobby Supplies,1203.36,98.01
+2023-08-16,Transportation,Online,Car Maintenance,2568.0,228.09
+2023-08-17,Housing,Online,Home Security System,2287.49,186.39
+2023-08-17,Health & Fitness,Online,Medical Consultations,3224.64,29.25
+2023-08-17,Health & Fitness,Cash,Physical Therapy Sessions,1060.92,13.79
+2023-08-17,Health & Fitness,Online,Physical Therapy Sessions,1931.66,68.89
+2023-08-17,Groceries,Online,Snacks And Beverages,408.6,17.2
+2023-08-18,Utilities,Cash,Home Heating Costs,1631.18,77.58
+2023-08-18,Groceries,Cash,Baking Ingredients,632.8,0.43
+2023-08-18,Housing,Cash,Home Insurance,1558.36,96.72
+2023-08-18,Dining Out,Online,Coffee Shop Visit,270.83,14.42
+2023-08-19,Utilities,Cash,Internet Service,859.01,66.78
+2023-08-19,Travel,Cash,Car Rentals,1080.74,97.24
+2023-08-20,Health & Fitness,Online,Nutritional Supplements,944.72,3.26
+2023-08-21,Groceries,Online,Cleaning Supplies,1253.84,115.25
+2023-08-21,Transportation,Cash,Car Loan Payment,9803.81,307.72
+2023-08-21,Housing,Online,Home Security System,1370.83,21.75
+2023-08-21,Dining Out,Cash,Dinner At A Restaurant,2868.78,177.41
+2023-08-21,Dining Out,Online,Coffee Shop Visit,487.43,27.43
+2023-08-22,Housing,Cash,Property Taxes,4875.53,174.14
+2023-08-23,Health & Fitness,Online,Personal Training Sessions,2905.42,271.49
+2023-08-23,Groceries,Cash,Meat And Fish,1341.74,46.06
+2023-08-23,Utilities,Cash,Gas Bill,526.36,11.99
+2023-08-23,Dining Out,Online,Special Occasion Dinner,2507.28,75.77
+2023-08-24,Health & Fitness,Online,Yoga Classes,432.55,7.03
+2023-08-24,Dining Out,Online,Buffet Meals,1792.5,45.06
+2023-08-24,Transportation,Cash,Bicycle Repairs,589.52,51.75
+2023-08-24,Dining Out,Cash,Buffet Meals,1666.02,79.96
+2023-08-24,Groceries,Cash,Staple Grains,405.43,0.04
+2023-08-24,Dining Out,Cash,Coffee Shop Visit,353.93,32.37
+2023-08-25,Utilities,Online,Sewer Charges,255.28,25.05
+2023-08-25,Utilities,Cash,Mobile Phone Bill,1200.42,4.55
+2023-08-25,Utilities,Cash,Internet Service,753.65,51.86
+2023-08-25,Dining Out,Cash,Coffee Shop Visit,109.31,10.79
+2023-08-26,Utilities,Online,Sewer Charges,458.62,35.05
+2023-08-26,Health & Fitness,Online,Personal Training Sessions,1950.46,76.21
+2023-08-26,Subscriptions,Online,Cloud Storage Services,235.96,10.04
+2023-08-26,Utilities,Cash,Internet Service,1964.34,2.25
+2023-08-26,Subscriptions,Cash,Software Licenses,735.4,4.06
+2023-08-27,Transportation,Cash,Car Loan Payment,5234.42,74.43
+2023-08-27,Entertainment,Online,Movie Tickets,425.94,9.18
+2023-08-27,Travel,Online,Car Rentals,2796.92,202.11
+2023-08-27,Utilities,Online,Home Heating Costs,2510.73,125.16
+2023-08-27,Dining Out,Online,Fast Food Meal,384.71,8.53

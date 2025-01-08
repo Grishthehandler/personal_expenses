@@ -1,0 +1,101 @@
+Date,Category,Payment Mode,Description,Amount Paid,Cashback
+2023-09-01,Entertainment,Cash,Board Games,984.51,70.79
+2023-09-01,Housing,Online,Appliance Purchases,29566.47,872.76
+2023-09-01,Transportation,Online,Ride-Sharing Services,1229.93,100.62
+2023-09-02,Groceries,Online,Condiments And Spices,401.62,28.14
+2023-09-02,Entertainment,Cash,Concert Tickets,1931.64,66.29
+2023-09-02,Subscriptions,Cash,News Websites Subscription,729.86,26.22
+2023-09-02,Clothing,Online,Footwear,2551.75,113.11
+2023-09-03,Travel,Online,Dining While Traveling,1343.57,132.36
+2023-09-03,Dining Out,Cash,Coffee Shop Visit,133.62,7.87
+2023-09-04,Utilities,Online,Electricity Bill,2289.52,129.95
+2023-09-04,Groceries,Online,Condiments And Spices,651.55,32.63
+2023-09-04,Health & Fitness,Online,Health Screenings,1740.69,44.17
+2023-09-05,Dining Out,Cash,Brunch With Friends,727.48,36.75
+2023-09-05,Housing,Online,Rent Payment,8032.98,26.53
+2023-09-06,Travel,Online,Hotel Accommodation,13335.89,1186.28
+2023-09-06,Utilities,Online,Internet Service,787.91,28.94
+2023-09-06,Housing,Online,Rent Payment,18909.23,1094.38
+2023-09-06,Travel,Online,Dining While Traveling,1930.3,109.76
+2023-09-06,Subscriptions,Cash,Cloud Storage Services,226.82,1.78
+2023-09-06,Dining Out,Online,Coffee Shop Visit,109.95,2.27
+2023-09-07,Health & Fitness,Cash,Health Insurance Premiums,1788.5,27.41
+2023-09-07,Groceries,Online,Snacks And Beverages,1480.1,146.26
+2023-09-07,Entertainment,Online,Hobby Supplies,827.8,52.58
+2023-09-07,Housing,Cash,HOA Fees,1368.86,75.9
+2023-09-07,Transportation,Cash,Car Insurance,2780.46,76.25
+2023-09-07,Dining Out,Cash,Dinner At A Restaurant,1441.82,106.24
+2023-09-08,Subscriptions,Cash,Meal Kit Subscriptions,2973.09,42.64
+2023-09-08,Dining Out,Online,Snacks From A Convenience Store,161.43,15.09
+2023-09-08,Groceries,Cash,Cleaning Supplies,997.45,0.16
+2023-09-08,Clothing,Online,Work Attire,1512.56,90.82
+2023-09-09,Groceries,Online,Cleaning Supplies,1651.9,117.02
+2023-09-09,Housing,Online,Furnishings,6286.39,626.5
+2023-09-09,Dining Out,Online,Buffet Meals,1379.31,114.4
+2023-09-09,Travel,Online,Baggage Fees,1961.09,110.57
+2023-09-09,Dining Out,Cash,Coffee Shop Visit,175.49,16.95
+2023-09-10,Travel,Online,Travel Insurance,1007.03,21.81
+2023-09-10,Entertainment,Cash,Concert Tickets,774.15,65.08
+2023-09-10,Transportation,Online,Fuel Costs,6960.09,268.62
+2023-09-10,Dining Out,Cash,Street Food,483.4,7.23
+2023-09-10,Clothing,Cash,Work Attire,3959.2,198.17
+2023-09-11,Subscriptions,Cash,Meal Kit Subscriptions,1754.23,104.27
+2023-09-11,Transportation,Cash,Public Transit Pass,1055.12,69.91
+2023-09-12,Utilities,Online,Waste Disposal Fees,458.29,21.18
+2023-09-12,Dining Out,Cash,Coffee Shop Visit,260.56,6.77
+2023-09-13,Health & Fitness,Online,Wellness Programs,1428.33,11.87
+2023-09-13,Transportation,Online,Car Maintenance,3835.07,248.77
+2023-09-13,Clothing,Cash,Casual Wear,823.75,71.63
+2023-09-13,Dining Out,Online,Brunch With Friends,703.79,44.81
+2023-09-14,Health & Fitness,Online,Yoga Classes,594.25,46.02
+2023-09-14,Dining Out,Online,Dinner At A Restaurant,2285.48,61.35
+2023-09-15,Clothing,Cash,Fashion Accessories,757.89,59.98
+2023-09-15,Housing,Cash,Appliance Purchases,23881.24,1508.94
+2023-09-15,Dining Out,Online,Coffee Shop Visit,270.1,5.38
+2023-09-16,Entertainment,Cash,Movie Tickets,591.06,13.52
+2023-09-17,Subscriptions,Online,Gym Membership,598.56,46.82
+2023-09-17,Subscriptions,Cash,News Websites Subscription,923.49,85.39
+2023-09-17,Dining Out,Online,Beverages At Bars,394.18,35.54
+2023-09-17,Health & Fitness,Cash,Medical Consultations,1419.6,128.06
+2023-09-18,Entertainment,Cash,Video Games,2484.13,198.97
+2023-09-18,Housing,Cash,Rent Payment,12665.19,780.53
+2023-09-18,Travel,Online,Baggage Fees,1753.78,113.19
+2023-09-18,Dining Out,Online,Coffee Shop Visit,459.1,27.91
+2023-09-19,Dining Out,Cash,Fast Food Meal,283.52,16.99
+2023-09-19,Subscriptions,Cash,Online Learning Platforms,3708.11,217.83
+2023-09-19,Groceries,Cash,Condiments And Spices,467.95,15.29
+2023-09-20,Health & Fitness,Cash,Health Insurance Premiums,2925.08,102.52
+2023-09-20,Subscriptions,Online,Digital Magazine Subscriptions,241.81,18.73
+2023-09-20,Travel,Cash,Local Transportation,109.41,0.66
+2023-09-20,Utilities,Cash,Maintenance Fees,996.79,33.55
+2023-09-20,Entertainment,Cash,Hobby Supplies,900.44,11.26
+2023-09-21,Travel,Online,Local Transportation,189.43,18.65
+2023-09-21,Dining Out,Online,Dinner At A Restaurant,965.93,67.23
+2023-09-21,Dining Out,Online,Coffee Shop Visit,187.82,6.09
+2023-09-22,Subscriptions,Cash,Cloud Storage Services,169.49,8.48
+2023-09-22,Groceries,Cash,Condiments And Spices,245.13,19.88
+2023-09-23,Health & Fitness,Online,Medical Consultations,4347.06,173.54
+2023-09-24,Dining Out,Cash,Dinner At A Restaurant,1872.91,21.06
+2023-09-24,Dining Out,Online,Snacks From A Convenience Store,428.95,4.43
+2023-09-24,Groceries,Cash,Dairy Products,1549.57,93.06
+2023-09-24,Groceries,Cash,Cleaning Supplies,1863.88,16.77
+2023-09-24,Dining Out,Cash,Coffee Shop Visit,378.04,13.33
+2023-09-25,Subscriptions,Cash,Gaming Subscriptions,609.16,10.6
+2023-09-25,Clothing,Cash,Children's Apparel,2929.63,170.09
+2023-09-25,Subscriptions,Online,News Websites Subscription,414.08,24.26
+2023-09-26,Entertainment,Online,Hobby Supplies,644.67,46.93
+2023-09-26,Health & Fitness,Cash,Nutritional Supplements,646.25,14.0
+2023-09-26,Groceries,Online,Baking Ingredients,523.56,0.76
+2023-09-26,Clothing,Cash,Athletic Wear,1050.79,42.42
+2023-09-26,Groceries,Online,Cleaning Supplies,644.15,58.06
+2023-09-27,Health & Fitness,Cash,Yoga Classes,683.96,1.26
+2023-09-27,Dining Out,Online,Coffee Shop Visit,259.45,13.94
+2023-09-28,Housing,Online,HOA Fees,2584.66,87.82
+2023-09-28,Groceries,Online,Condiments And Spices,530.6,10.41
+2023-09-28,Transportation,Online,Parking Fees,968.81,92.55
+2023-09-28,Dining Out,Cash,Dinner At A Restaurant,1750.97,1.54
+2023-09-29,Groceries,Online,Meat And Fish,1120.13,91.18
+2023-09-29,Dining Out,Online,Lunch Takeaway,678.59,30.15
+2023-09-30,Housing,Online,Utilities Included,745.11,44.55
+2023-09-30,Entertainment,Cash,Books And E-Books,459.34,36.07
+2023-09-30,Transportation,Online,Car Loan Payment,8923.47,213.66
