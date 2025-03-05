@@ -1,101 +1,101 @@
 Date,Category,Payment Mode,Description,Amount Paid,Cashback
-2023-01-01,Travel,Cash,Travel Accessories,4506.07,372.8
-2023-01-01,Housing,Cash,Rent Payment,25373.25,560.91
-2023-01-01,Housing,Cash,Rent Payment,28213.24,2515.07
-2023-01-01,Groceries,Cash,Baking Ingredients,958.51,91.15
-2023-01-01,Clothing,Cash,Children's Apparel,990.82,80.66
-2023-01-02,Entertainment,Cash,Theater Performances,2687.99,235.02
-2023-01-02,Travel,Online,Airfare,48203.92,2201.53
-2023-01-02,Utilities,Cash,Gas Bill,463.02,8.86
-2023-01-02,Subscriptions,Online,Audiobook Services,335.06,16.45
-2023-01-02,Clothing,Cash,Footwear,2412.43,155.11
-2023-01-03,Health & Fitness,Online,Yoga Classes,314.43,4.73
-2023-01-03,Groceries,Online,Organic Produce,928.92,26.94
-2023-01-03,Entertainment,Online,Streaming Equipment,3314.33,89.02
-2023-01-03,Dining Out,Cash,Coffee Shop Visit,385.94,28.88
-2023-01-04,Utilities,Cash,Gas Bill,829.13,9.27
-2023-01-04,Health & Fitness,Online,Personal Training Sessions,4325.47,426.25
-2023-01-04,Housing,Online,Utilities Included,47.38,2.04
-2023-01-05,Utilities,Cash,Sewer Charges,684.9,55.48
-2023-01-05,Groceries,Online,Fruits And Vegetables,1546.61,109.54
-2023-01-06,Travel,Online,Baggage Fees,650.37,20.16
-2023-01-06,Dining Out,Online,Coffee Shop Visit,246.97,11.03
-2023-01-07,Housing,Online,HOA Fees,2426.03,11.5
-2023-01-07,Transportation,Cash,Car Maintenance,4226.39,154.98
-2023-01-07,Utilities,Online,Gas Bill,713.78,14.02
-2023-01-07,Dining Out,Cash,Dinner At A Restaurant,1235.11,3.18
-2023-01-08,Subscriptions,Cash,Digital Magazine Subscriptions,266.75,1.26
-2023-01-08,Subscriptions,Cash,News Websites Subscription,213.89,15.92
-2023-01-09,Subscriptions,Cash,Digital Magazine Subscriptions,478.11,25.87
-2023-01-09,Dining Out,Online,Coffee Shop Visit,490.72,39.8
-2023-01-10,Housing,Online,Furnishings,6353.12,577.42
-2023-01-10,Utilities,Online,Electricity Bill,1097.54,64.8
-2023-01-10,Housing,Online,Home Repairs,8569.06,282.09
-2023-01-10,Subscriptions,Cash,Audiobook Services,667.55,1.82
-2023-01-10,Dining Out,Cash,Dinner At A Restaurant,1719.91,79.35
-2023-01-11,Groceries,Online,Meat And Fish,1085.62,3.54
-2023-01-12,Utilities,Cash,Mobile Phone Bill,1297.68,48.04
-2023-01-12,Utilities,Online,Home Heating Costs,2157.0,187.94
-2023-01-12,Travel,Cash,Souvenirs,776.15,45.58
-2023-01-12,Dining Out,Cash,Coffee Shop Visit,473.04,21.67
-2023-01-13,Utilities,Cash,Sewer Charges,311.61,5.16
-2023-01-14,Travel,Online,Baggage Fees,1996.09,149.11
-2023-01-14,Housing,Online,HOA Fees,1546.0,38.68
-2023-01-14,Dining Out,Online,Dinner At A Restaurant,934.67,7.69
-2023-01-15,Groceries,Online,Staple Grains,919.44,59.67
-2023-01-15,Clothing,Cash,Seasonal Clothing,2522.97,3.39
-2023-01-15,Travel,Cash,Airfare,16971.43,473.72
-2023-01-15,Transportation,Online,Parking Fees,935.93,71.54
-2023-01-15,Dining Out,Online,Coffee Shop Visit,271.26,21.11
-2023-01-16,Clothing,Cash,Formal Wear,7159.28,208.92
-2023-01-16,Housing,Cash,Furnishings,9142.22,336.81
-2023-01-17,Entertainment,Cash,Video Games,3248.17,153.37
-2023-01-17,Groceries,Online,Condiments And Spices,978.93,87.65
-2023-01-17,Transportation,Online,Vehicle Registration Fees,883.14,77.36
-2023-01-17,Dining Out,Cash,Street Food,459.77,41.8
-2023-01-17,Health & Fitness,Online,Gym Membership,2098.26,126.84
-2023-01-18,Groceries,Online,Meat And Fish,3472.66,283.65
-2023-01-18,Dining Out,Online,Coffee Shop Visit,162.15,7.8
-2023-01-19,Utilities,Cash,Mobile Phone Bill,419.73,17.53
-2023-01-19,Clothing,Cash,Seasonal Clothing,3200.19,83.19
-2023-01-19,Housing,Online,Utilities Included,1797.39,132.31
-2023-01-20,Groceries,Cash,Condiments And Spices,510.87,9.62
-2023-01-20,Health & Fitness,Online,Personal Training Sessions,3236.16,132.04
-2023-01-20,Groceries,Online,Snacks And Beverages,1422.01,77.75
-2023-01-20,Housing,Online,HOA Fees,715.96,27.85
-2023-01-20,Clothing,Cash,Tailoring Services,541.17,26.25
-2023-01-21,Utilities,Cash,Sewer Charges,341.3,10.75
-2023-01-21,Housing,Online,Mortgage Payment,14478.9,1092.73
-2023-01-21,Dining Out,Cash,Dinner At A Restaurant,931.63,50.34
-2023-01-21,Dining Out,Online,Coffee Shop Visit,114.79,0.72
-2023-01-22,Transportation,Cash,Public Transit Pass,1147.38,50.18
-2023-01-22,Housing,Cash,Rent Payment,10333.86,798.26
-2023-01-23,Travel,Cash,Baggage Fees,1522.4,146.92
-2023-01-23,Health & Fitness,Online,Nutritional Supplements,1507.29,32.96
-2023-01-23,Dining Out,Cash,Snacks From A Convenience Store,318.97,10.46
-2023-01-24,Clothing,Online,Underwear And Socks,662.0,0.48
-2023-01-24,Travel,Online,Baggage Fees,1556.8,106.85
-2023-01-24,Entertainment,Online,Art Supplies,1272.2,59.24
-2023-01-24,Dining Out,Cash,Coffee Shop Visit,279.57,5.13
-2023-01-25,Groceries,Cash,Snacks And Beverages,735.92,36.73
-2023-01-25,Groceries,Cash,Organic Produce,2372.04,78.05
-2023-01-25,Health & Fitness,Cash,Personal Training Sessions,4843.91,75.08
-2023-01-25,Subscriptions,Online,Gaming Subscriptions,1435.55,11.69
-2023-01-26,Health & Fitness,Cash,Wellness Programs,983.05,66.67
-2023-01-27,Entertainment,Cash,Movie Tickets,582.4,56.86
-2023-01-27,Housing,Online,Utilities Included,213.51,15.49
-2023-01-27,Travel,Online,Souvenirs,724.69,5.62
-2023-01-27,Utilities,Cash,Waste Disposal Fees,218.45,8.58
-2023-01-27,Dining Out,Online,Coffee Shop Visit,397.98,11.66
-2023-01-28,Dining Out,Cash,Fast Food Meal,491.14,6.88
-2023-01-28,Subscriptions,Online,Gym Membership,955.0,76.62
-2023-01-28,Entertainment,Online,Movie Tickets,647.63,59.12
-2023-01-28,Dining Out,Cash,Dinner At A Restaurant,1017.04,2.82
-2023-01-29,Subscriptions,Cash,Meal Kit Subscriptions,1148.02,44.01
-2023-01-29,Travel,Cash,Airfare,17527.25,554.28
-2023-01-29,Clothing,Cash,Fashion Accessories,835.52,31.56
-2023-01-29,Subscriptions,Online,Digital Magazine Subscriptions,449.82,35.22
-2023-01-30,Groceries,Cash,Cleaning Supplies,989.68,68.49
-2023-01-30,Dining Out,Online,Coffee Shop Visit,468.77,27.81
-2023-01-31,Travel,Online,Baggage Fees,593.9,46.9
-2023-01-31,Groceries,Cash,Meat And Fish,4590.66,340.62
+2023-01-01,Clothing,Cash,Athletic Wear,2451.52,93.64
+2023-01-01,Health & Fitness,Online,Personal Training Sessions,3199.94,46.8
+2023-01-01,Subscriptions,Cash,Cloud Storage Services,459.39,34.12
+2023-01-01,Clothing,Online,Formal Wear,2065.88,76.83
+2023-01-02,Clothing,Cash,Fashion Accessories,350.35,33.8
+2023-01-03,Groceries,Cash,Meat And Fish,1748.55,81.5
+2023-01-03,Dining Out,Online,Coffee Shop Visit,456.96,33.91
+2023-01-04,Housing,Cash,Utilities Included,186.48,13.84
+2023-01-04,Dining Out,Cash,Fast Food Meal,578.71,0.57
+2023-01-05,Clothing,Online,Seasonal Clothing,1270.15,75.08
+2023-01-05,Utilities,Online,Sewer Charges,676.9,6.0
+2023-01-06,Housing,Cash,Furnishings,18344.52,671.39
+2023-01-06,Transportation,Online,Bicycle Repairs,468.5,43.32
+2023-01-06,Clothing,Cash,Seasonal Clothing,2209.66,20.56
+2023-01-06,Entertainment,Cash,Art Supplies,1180.25,13.67
+2023-01-06,Dining Out,Cash,Coffee Shop Visit,474.1,4.53
+2023-01-07,Transportation,Online,Parking Fees,989.32,6.57
+2023-01-07,Dining Out,Cash,Dinner At A Restaurant,1541.58,34.26
+2023-01-08,Subscriptions,Online,Digital Magazine Subscriptions,254.87,19.07
+2023-01-08,Transportation,Cash,Car Maintenance,2745.62,152.21
+2023-01-08,Housing,Online,Home Insurance,1497.11,132.65
+2023-01-08,Housing,Cash,Rent Payment,29967.21,2478.23
+2023-01-08,Health & Fitness,Cash,Nutritional Supplements,1837.49,34.2
+2023-01-09,Health & Fitness,Cash,Health Screenings,1373.22,121.06
+2023-01-09,Health & Fitness,Cash,Health Screenings,1853.76,37.47
+2023-01-09,Entertainment,Online,Theater Performances,1270.75,15.53
+2023-01-09,Clothing,Online,Tailoring Services,208.22,13.87
+2023-01-09,Dining Out,Cash,Coffee Shop Visit,479.26,37.25
+2023-01-10,Transportation,Cash,Fuel Costs,5428.51,148.74
+2023-01-10,Travel,Online,Souvenirs,1866.06,166.36
+2023-01-10,Groceries,Cash,Cleaning Supplies,1467.59,7.51
+2023-01-10,Groceries,Online,Cleaning Supplies,1579.16,146.96
+2023-01-11,Dining Out,Cash,Snacks From A Convenience Store,337.59,6.64
+2023-01-12,Health & Fitness,Cash,Physical Therapy Sessions,1538.92,124.53
+2023-01-12,Dining Out,Cash,Coffee Shop Visit,399.54,28.1
+2023-01-13,Dining Out,Cash,Brunch With Friends,944.89,56.35
+2023-01-13,Transportation,Cash,Car Maintenance,4165.38,330.57
+2023-01-13,Utilities,Cash,Gas Bill,997.64,22.18
+2023-01-13,Housing,Online,Appliance Purchases,8795.42,711.57
+2023-01-13,Health & Fitness,Cash,Nutritional Supplements,906.26,40.43
+2023-01-14,Travel,Online,Baggage Fees,658.27,51.12
+2023-01-14,Dining Out,Online,Dinner At A Restaurant,1562.96,7.65
+2023-01-15,Subscriptions,Cash,Gaming Subscriptions,573.07,33.79
+2023-01-15,Dining Out,Online,Street Food,114.37,1.62
+2023-01-15,Clothing,Cash,Children's Apparel,2294.0,130.59
+2023-01-15,Dining Out,Cash,Coffee Shop Visit,415.28,34.54
+2023-01-15,Health & Fitness,Online,Medical Consultations,2665.05,61.67
+2023-01-15,Dining Out,Online,Coffee Shop Visit,468.66,20.56
+2023-01-16,Entertainment,Cash,Art Supplies,348.21,33.71
+2023-01-16,Travel,Cash,Hotel Accommodation,5125.43,240.85
+2023-01-16,Clothing,Online,Fashion Accessories,683.0,24.15
+2023-01-16,Dining Out,Cash,Special Occasion Dinner,4625.93,161.6
+2023-01-16,Dining Out,Online,Lunch Takeaway,778.56,8.28
+2023-01-17,Travel,Cash,Souvenirs,211.08,12.72
+2023-01-17,Health & Fitness,Online,Medical Consultations,4427.69,384.67
+2023-01-17,Clothing,Cash,Fashion Accessories,667.62,9.72
+2023-01-18,Utilities,Cash,Water Bill,917.86,71.36
+2023-01-18,Travel,Cash,Travel Accessories,4955.1,365.46
+2023-01-18,Entertainment,Cash,Concert Tickets,2975.36,61.82
+2023-01-18,Dining Out,Cash,Coffee Shop Visit,209.13,18.07
+2023-01-19,Clothing,Online,Children's Apparel,1921.61,168.84
+2023-01-19,Utilities,Online,Gas Bill,639.05,25.78
+2023-01-19,Subscriptions,Online,Software Licenses,967.39,53.29
+2023-01-20,Travel,Online,Travel Insurance,2465.04,39.82
+2023-01-20,Transportation,Online,Car Insurance,2533.79,135.45
+2023-01-21,Utilities,Cash,Electricity Bill,1287.8,68.56
+2023-01-21,Health & Fitness,Online,Health Screenings,1086.95,10.79
+2023-01-21,Health & Fitness,Online,Fitness Apps,124.39,10.72
+2023-01-21,Housing,Online,Home Repairs,6960.17,101.7
+2023-01-21,Clothing,Online,Fashion Accessories,337.43,7.9
+2023-01-21,Dining Out,Cash,Dinner At A Restaurant,2960.57,38.79
+2023-01-21,Dining Out,Online,Coffee Shop Visit,131.12,2.73
+2023-01-22,Housing,Cash,Furnishings,18961.09,1802.73
+2023-01-22,Utilities,Online,Maintenance Fees,956.97,41.94
+2023-01-23,Entertainment,Cash,Board Games,906.36,7.86
+2023-01-23,Subscriptions,Online,Software Licenses,618.64,11.82
+2023-01-23,Transportation,Online,Car Insurance,2390.81,180.22
+2023-01-23,Groceries,Online,Cleaning Supplies,1639.42,158.32
+2023-01-24,Subscriptions,Online,News Websites Subscription,989.47,56.97
+2023-01-24,Dining Out,Online,Coffee Shop Visit,448.02,31.18
+2023-01-25,Clothing,Cash,Athletic Wear,992.91,81.32
+2023-01-25,Transportation,Online,Public Transit Pass,647.23,5.02
+2023-01-26,Transportation,Cash,Vehicle Registration Fees,1747.8,154.45
+2023-01-26,Transportation,Cash,Parking Fees,442.17,24.82
+2023-01-26,Dining Out,Online,Brunch With Friends,557.71,3.75
+2023-01-26,Dining Out,Cash,Buffet Meals,569.99,9.33
+2023-01-26,Health & Fitness,Cash,Health Insurance Premiums,1722.08,41.24
+2023-01-27,Health & Fitness,Cash,Yoga Classes,372.28,18.82
+2023-01-27,Clothing,Online,Casual Wear,2970.49,14.3
+2023-01-27,Dining Out,Online,Coffee Shop Visit,111.48,0.57
+2023-01-28,Dining Out,Online,Buffet Meals,1199.64,7.59
+2023-01-28,Transportation,Cash,Fuel Costs,2909.21,25.57
+2023-01-28,Subscriptions,Online,News Websites Subscription,475.55,35.35
+2023-01-28,Subscriptions,Online,Meal Kit Subscriptions,2296.74,37.31
+2023-01-28,Health & Fitness,Cash,Health Screenings,749.23,37.37
+2023-01-28,Dining Out,Online,Dinner At A Restaurant,1015.22,14.94
+2023-01-29,Entertainment,Cash,Board Games,1569.75,38.14
+2023-01-29,Transportation,Cash,Car Insurance,1365.02,48.15
+2023-01-29,Housing,Cash,Property Taxes,3084.81,242.85
+2023-01-29,Health & Fitness,Cash,Physical Therapy Sessions,2376.2,50.45

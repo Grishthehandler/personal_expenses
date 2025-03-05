@@ -1,7 +1,44 @@
-numpy
+numpy 
 pandas
 streamlit
 mysql-connector-python
 Faker
 seaborn
 matplotlib
+sqlalchemy
+pymysql
+plotly
+plotly-express
+
+# numpy
+# Used for efficient numerical operations and data manipulation during expense data analysis.
+
+# pandas
+# Utilized to load, clean, and analyze the generated expense data, enabling easy data transformation and insight extraction.
+
+# streamlit
+# Employed to build an interactive web application that visualizes insights from the expense data and allows user interaction with SQL query outputs.
+
+# mysql-connector-python
+# Used to connect to the MySQL database where the expense data is stored, facilitating data retrieval and manipulation.
+
+# Faker
+# Generates realistic monthly expense data across different categories for the expense tracker.
+
+# seaborn
+# Creates attractive visualizations to help identify trends and patterns in spending behavior from the expense data.
+
+# matplotlib
+# Generates custom plots and charts for visualizing expense data, either independently or alongside Seaborn.
+
+# sqlalchemy
+# Manages database connections and executes SQL queries in a more Pythonic way, simplifying database interactions.
+
+# pymysql
+# Serves as an alternative MySQL client library for connecting to the database and executing SQL queries.
+
+# plotly
+# Creates interactive visualizations of the expense data in the Streamlit app, enhancing user engagement.
+
+# plotly-express
+# Simplifies the creation of various plots and charts based on the expense data, making analysis easier.
